@@ -1,0 +1,86 @@
+<resources>
+    <string name="app_name">AnimeApp</string>
+    <string name="animes_name">Nama Anime</string>
+    <string name="description">Deskripsi</string>
+    <string name="list">List</string>
+    <string name="grid">Grid</string>
+    <string name="about">About</string>
+
+    <string-array name="data_name">
+        <item>Kimi No Nawa</item>
+        <item>Tenki No Ko</item>
+        <item>I Want To Eat Your Pancreas</item>
+        <item>Ride Your Wave</item>
+        <item>Howls Moving Castle</item>
+        <item>Your Lie In April</item>
+        <item>Spy x Family</item>
+        <item>The Wind Rises</item>
+        <item>Classroom Of The Elite</item>
+        <item>Violet Evergarden</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Two strangers find themselves linked in a bizarre way. When a connection forms, will distance be the only thing to keep them apart?</item>
+        <item>A high-school boy who has run away to Tokyo befriends a girl who appears to be able to manipulate the weather.</item>
+        <item>A high school student discovers one of his classmates, Sakura Yamauchi, is suffering from a terminal illness. This secret brings the two together, as she lives out her final moments.</item>
+        <item>A surfer and firefighter meet and fall in love.</item>
+        <item>When an unconfident young woman is cursed with an old body by a spiteful witch, her only chance of breaking the spell lies with a self-indulgent yet insecure young wizard and his companions in his legged, walking castle.</item>
+        <item>A piano prodigy who lost his ability to play after suffering a traumatic event in his childhood is forced back into the spotlight by an eccentric girl with a secret of her own.</item>
+        <item>A spy on an undercover mission gets married and adopts a child as part of his cover. His wife and daughter have secrets of their own, and all three must strive to keep together.</item>
+        <item>A look at the life of Jiro Horikoshi, the man who designed Japanese fighter planes during World War II.</item>
+        <item>When Kiyotaka enters government-sponsored elite high school, he finds out just how merit-based this education system is</item>
+        <item>Violet Evergarden, a former soldier returned from war, comes to teach at a womens academy and changes a young girls life.</item>
+    </string-array>
+
+    <integer-array name="data_photo">
+        <item>@drawable/yourname</item>
+        <item>@drawable/tenkinoko</item>
+        <item>@drawable/iwanttoeat</item>
+        <item>@drawable/rideyourwave</item>
+        <item>@drawable/howlsmovingcastle</item>
+        <item>@drawable/yourlie</item>
+        <item>@drawable/spyxfamily</item>
+        <item>@drawable/windrises</item>
+        <item>@drawable/classroom</item>
+        <item>@drawable/violetevergarden</item>
+    </integer-array>
+
+    <string-array name="data_rating">
+        <item>8.4/10</item>
+        <item>8.3/10</item>
+        <item>8.5/10</item>
+        <item>6.8/10</item>
+        <item>8.6/10</item>
+        <item>8.6/10</item>
+        <item>8.6/10</item>
+        <item>8.1/10</item>
+        <item>7.8/10</item>
+        <item>8.9/10</item>
+    </string-array>
+
+    <string-array name="data_genre">
+        <item>Drama, Romance, Supernatural</item>
+        <item>Award Winning, Drama, Fantasy, Romance</item>
+        <item>Drama, Romance</item>
+        <item>Drama, Romance, Supernatural</item>
+        <item>Adventure, Award Winning, Drama, Fantasy, Romance</item>
+        <item>Drama, Romance</item>
+        <item>Action, Award Winning, Comedy</item>
+        <item>Award Winning, Drama, Romance</item>
+        <item>Drama, Thriller</item>
+        <item>Award Winning, Drama, Fantasy</item>
+    </string-array>
+
+    <string-array name="data_sinopsis">
+        <item>Mitsuha Miyamizu, seorang siswi sekolah menengah atas yang tinggal di desa fiktif bernama Itomori di daerah pegunungan Hida Prefektur Gifu, mulai bosan dengan kehidupannya di pedesaan tempat dia lahir dan berharap dapat terlahir menjadi pemuda tampan yang hidup di Tokyo pada kehidupan selanjutnya. Kemudian, Taki Tachibana, seorang siswa sekolah menengah atas yang tinggal di Tokyo, terbangun dari tidurnya dan menyadari bahwa dirinya adalah Mitsuha, yang entah bagaimana bisa masuk ke dalam tubuh Taki.</item>
+        <item>Seorang anak muda dari desa terpencil di Shikoku, yang meninggalkan rumah dan memutuskan untuk tinggal di Tokyo. Dalam perjalanannya, dia bertemu dengan Keisuke, seorang pria aneh yang menawarkan bantuan kepadanya. Merasa aneh dengan orang tersebut, Hodoka memutuskan untuk mencoba mencari peruntungan yang lain. Namun dia menghadapi kesulitan yang datang silih berganti dalam perjalannya. Setelah beberapa kali tidur di jalanan karena tidak ada orang lain yang bias dihubungi, Hodoka memutuskan untuk menghubungi Keisuke. Hodoka mendapatkan tawaran bekerja sebagai penulis majalah lokal milik Keisuke yang membahas supernatural dan hal-hal aneh. Selama di Tokyo, Hodoka selalu diikuti cuaca aneh dimana hujan turun tiada henti. Saat menulis sebuah cerita, dia mendengar kisah pengendalian cuaca. Dia berusaha mencari kebenaran dari legenda urban di mana ada seorang gadis muda yang memiliki kekuatan untuk menghentikan hujan dan membuat langit menjadi cerah kembali. Pencariannya ini membuatnya bertemu dengan Hina Amano, seorang gadis yang memiliki kekuatan luar biasa yang dapat mengendalikan cuaca.</item>
+        <item>Aku menemukan sebuah buku di rumah sakit. Judulnya Cerita Teman si Sakit pemiliknya adalah Yamauchi Sakura, teman sekelasku. Dari sana aku tahu dia menderita penyakit pankreas. Buku itu adalah buku harian rahasia miliknya. Namun gadis itu tidak seperti orang sakit. Dia seenaknya sendiri, dia mempermainkan perasaanku, dia suka menggodaku. Dan dia, mungkin mulai menarik hatiku.</item>
+        <item>Hinako bertemu dengan Minato ketika terjadi peristiwa kebakaran di gedung apartemen yang ditempati Hinako. Minato menyelamatkan Hinako dari peristiwa tersebut dan selanjutnya pertemuan-pertemuan mereka membuat keduanya lebih akrab. Hinako yang spontan dan periang, merasa cocok dengan Minato yang baik hati dan dewasa. Bahkan Hinako mengajarkan Minato berselancar sampai bisa merasakan betapa menyenangkannya bermain dengan ombak di papan selancar. Hingga suatu tragedi terjadi dan mengubah kehidupan Hinako.</item>
+        <item>Sophie, gadis pekerja keras, bertemu dengan penyihir asing tampan, Howl. Penyihir lain melihat kebahagiaan Sophie dan mengutuknya menjadi tua. Sophie melarikan diri ke benteng sihir Howl.</item>
+        <item>Kosei Arima memenangkan banyak kompetisi piano saat berada di bawah pengawasan ketat ibunya. Ia dikenal sebagai manusia metronome selama masa itu. Sejak kematian ibunya, Kosei belum bisa mendengar suara piano lagi. Kosei kemudian bertemu dengan Kaori Miyazono melalui teman masa kecil Tsubaki Sawabe. Kaori Miyazono memainkan biola dan memiliki kekuatan. Sejak bertemu dengannya, Kosei mampu menghadapi piano lagi. Sementara itu, Kaori menyimpan sebuah rahasia.</item>
+        <item>Untuk menjaga perdamaian antara negara-negara saingan Westalis dan Ostania, agen Westalis dengan nama sandi "Twilight" ditugaskan untuk memata-matai Donovan Desmond, pemimpin partai politik ekstremis di Ostania. Namun, karena Desmond terkenal tertutup, satu-satunya cara Twilight bisa dekat dengannya adalah dengan mendaftarkan seorang anak di sekolah swasta yang sama dengan putra Desmond dan menyamar sebagai ayah mereka. Untuk mencapai ini, ia menciptakan alias Loid Forger, mengadopsi seorang gadis yatim piatu bernama Anya, dan menikahi seorang wanita bernama Yor Briar, untuk menciptakan citra keluarga yang bahagia. Namun, Yor sebenarnya adalah seorang pembunuh bayaran profesional, baik dia maupun Loid mereka berdua tidak menyadari identitas sebenarnya masing-masing. Keduanya juga tidak menyadari bahwa Anya bisa membaca pikiran, dan mengetahui profesi mereka yang sebenarnya. Terlepas dari faktor-faktor yang tidak diketahui ini, Loid harus belajar memainkan peran ayah dan suami yang sempurna untuk menjalankan misinya.</item>
+        <item>Berlatar tahun 1918, The Wind Rises bercerita tentang kisah seorang pemuda berkacamata bernama Jiro Hirokoshi, yang bermimpi dapat terbang seperti burung. Ia hidup di sebuah kota kecil di Jepang bersama keluarganya yang harmonis.</item>
+        <item>Classroom of The Elite menceritakan sebuah sekolah elit di mana mata uang biasa tidak berlaku. Sebagai gantinya, sekolah ini memberikan poin. Para siswanya bisa membeli kebutuhan mereka dengan poin tersebut.</item>
+        <item>Nama gadis itu, yang menulis surat mewakili orang-orang lain, adalah Violet Evergarden. Beberapa tahun telah berlalu sejak berakhirnya perang yang banyak memakan korban. Dunia berangsur damai, kehidupan berubah seiring berkembangnya teknlogi, dan semua orang melangkah ke depan. Kendati masih menyimpan rasa pada seseorang yang berarti baginya, Violet Evergarden berupaya melanjutkan hidupnya tanpa keberadaan orang tersebut. Suatu hari, sepucuk surat ditemukan…</item>
+    </string-array>
+</resources>
